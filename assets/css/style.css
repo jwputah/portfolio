@@ -21,7 +21,7 @@ header h1 {
     display: flex;
     padding: 10px;
     border: solid;
-    flex: 0 2 auto;
+    flex: 0 1 auto;
 }
 
 .nav div {
@@ -37,7 +37,7 @@ nav a {
 }
 
 .projects div {
-    flex: 0 2 auto;
+    flex: 0 1 auto;
     background-color: rgba(219,210,193,255); 
 }
 
@@ -60,12 +60,13 @@ nav a {
     text-align: center;
     font-size: 28px;
     padding: 20px;
+    flex: 0 1 auto;
 }
 
 .text-left {
     float: left;
-    width: 50%;
-    margin-top: 200px;
+    width: 60%;
+    margin: 85px 0 0 100px;
     text-align: center;
     font-size: 28px;
     padding: 20px;
@@ -79,7 +80,7 @@ nav a {
 .history {
     background-color: rgba(72,53,39,255);
     display: inline-block;
-    flex: 0 2 auto;
+    flex: 0 1 auto;
     border: solid 5px;
 }
 
