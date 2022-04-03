@@ -1,9 +1,9 @@
 # portfolio
 
-A webpage portfolio of Joshua W Pace <br>
-includes short biography <br>
-current projects <br>
-and contact email link
+* webpage portfolio of Joshua W Pace
+* Includes short biography
+* Current projects
+* Contact email and github link
 
 ## Buit With ##
 
@@ -17,3 +17,5 @@ https://jwputah.github.io/portfolio/
 
 
 ### Created by Joshua Pace ###
+
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/jwputah)
